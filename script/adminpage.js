@@ -1,7 +1,4 @@
 
-let baseurl="https://good-tan-jay.cyclic.app/"
-
-
 let navtrainer=document.getElementById("navTrainer")
 let navuser=document.getElementById("navUser")
 let navbooking=document.getElementById("navBooking")

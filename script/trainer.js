@@ -1,10 +1,3 @@
-let url="https://good-tan-jay.cyclic.app/"
-
-let boxContainer=document.querySelector("#trainers .box-container")
-
-
-
-
 async function getTrainerData(){
     try {
       let res= await fetch(`${url}/trainer`)
